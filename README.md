@@ -4,3 +4,9 @@
 - cd Downloads
 - sudo dpkg -i <tên_file_vừa_tải_về>.deb
 - sudo apt-get install -f 
+
+## up code lan dau
+
+## up code khi co thay doi
+- commit
+- git push
