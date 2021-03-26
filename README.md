@@ -1,4 +1,13 @@
 # setup_in_ubuntu
+## cai dat ibus-unikey
+- sudo apt-get install ibus-unikey
+- sudo add-apt-repository ppa:ubuntu-vn/ppa
+- sudo apt-get update
+- ibus restart
+- Settings: 
+- - cửa sổ [ Settings ] -> [ Region  & Language ] -> [Input Sources ] -> Bấm [ + ] để thêm 1 input source
+- - cửa sổ [ Add an Input Source ] -> Tìm kiếm ngôn ngữ là “Vietnamese” -> Chọn là “Vietnamese (Unikey)” -> Bấm “Add”
+
 ## Cai dat vs code
 - Đầu tiên các bạn vào trang chủ của VS Code: https://code.visualstudio.com/ sau đó tải về file có đuôi .deb
 - cd Downloads
